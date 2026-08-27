@@ -16,14 +16,6 @@
 
 ---
 
-<div align="center">
-
-</div>
-
----
-
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=piinkmonth&color=F75C7E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
